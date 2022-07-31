@@ -1,4 +1,0 @@
-setuptools~=57.4.0
-DateTime~=4.5
-pandas~=1.3.4
-time

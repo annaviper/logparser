@@ -11,6 +11,7 @@ The .txt file has no header and the columns are: UNIX timestamps in milliseconds
 | 1565647247170 	| Khiem    	| Tailee 	|
 
 # Installation
+From project folder:
 ```
 python -m build
 
