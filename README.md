@@ -11,6 +11,10 @@ The .txt file has no header and the columns are: UNIX timestamps in milliseconds
 | 1565647247170 	| Khiem    	| Tailee 	|
 
 # Installation
+You can clone the repository:
+```commandline
+git clone https://github.com/annaviper/logparser.git
+```
 From project folder:
 ```
 python -m build
